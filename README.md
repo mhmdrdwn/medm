@@ -1,4 +1,4 @@
-thesis
+Mining Academic Articles using RNN
 ==============================
 
 Master Thesis
