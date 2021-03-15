@@ -10,7 +10,7 @@ with gzip.open('20200705v1/full/metadata/metadata_0.jsonl.gz', 'rb') as gz, open
         metadata_dict = json.loads(line)
         paper_id = metadata_dict['paper_id']
         mag_field_of_study = metadata_dict['mag_field_of_study']
-        if mag_field_of_study and 'Computer Science' in mag_field_of_study:
+        if mag_field_of_study and 'Medicine' in mag_field_of_study:
             paper_ids_to_keep.add(paper_id)
             f_out.write(line)
 
