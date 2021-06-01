@@ -24,6 +24,13 @@ The four models are using the identical methdolgies except the use of the BERT m
 
 The two models are using the identical methdolgies except the use of the BERT model
 
+3 - Nearest Neighbour Search
+
+- https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/nearest-neighbour-final.ipynb
+
+4 - Visualization of All the models 
+
+https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/ensembles-and-evaluations.ipynb
 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
