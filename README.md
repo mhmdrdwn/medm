@@ -28,7 +28,7 @@ The two models are using the identical methdolgies except the use of the BERT mo
 
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/nearest-neighbour-final.ipynb
 
-4 - Visualization of All the models 
+4 - Visualization of the results of all the models 
 
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/ensembles-and-evaluations.ipynb
 
