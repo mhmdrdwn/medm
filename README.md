@@ -14,7 +14,7 @@ The folder contains:
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/mention-classification-scibert.ipynb
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/mention-classification-coder.ipynb
 
-The four models are using the identical methdolgies except the use of the BERT model
+The four models are using the identical methodologies except the use of the BERT model
 
 
 2 - Two LSTM models notebooks for mention detection. The models uses different BERT models for feature extraction
@@ -22,7 +22,7 @@ The four models are using the identical methdolgies except the use of the BERT m
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/mention-detect-scibert.ipynb
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/mention-detection-coder.ipynb
 
-The two models are using the identical methdolgies except the use of the BERT model
+The two models are using the identical methodologies except the use of the BERT model
 
 3 - Nearest Neighbour Search
 
