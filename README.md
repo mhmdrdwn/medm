@@ -32,5 +32,9 @@ The two models are using the identical methodologies except the use of the BERT 
 
 - https://github.com/mhmdrdwn/thesis/blob/main/notebooks/final_work/ensembles-and-evaluations.ipynb
 
+Some of the methods here are following, inspired and modified after:
+- D. Loureiro, A. Mário Jorge, MedLinker: Medical Entity Linking with Neural Representations and Dictionary Matching, 2020
+- K. C. Fraser, I. Nejadgholi, B. De Bruijn, M. Li, A. LaPlante, K. Zine El Abidine, Extracting UMLS Concepts from Medical Text Using General and Domain-Specific Deep Learning Models, 2019, https://arxiv.org/abs/1910.01274
+
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
