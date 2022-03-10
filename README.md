@@ -34,7 +34,7 @@ The two models are using the identical methodologies except the use of the BERT 
 
 
 -----------------------------------------------------------------------------------------------------------
-Some of the methods here are following, inspired and modified after the following studies on the same data:
+Some of the methods here are following and inspired after the following studies on the same data:
 - D. Loureiro, A. Mário Jorge, MedLinker: Medical Entity Linking with Neural Representations and Dictionary Matching, 2020, https://github.com/danlou/MedLinker.
 - K. C. Fraser, I. Nejadgholi, B. De Bruijn, M. Li, A. LaPlante, K. Zine El Abidine, Extracting UMLS Concepts from Medical Text Using General and Domain-Specific Deep Learning Models, 2019, https://arxiv.org/abs/1910.01274
 
